@@ -1,0 +1,9 @@
+artifact_location: file:///c:/Users/arifz/Downloads/omr_bubble/icr_artifacts
+creation_time: 1709867758043
+experiment_id: '302058154732171537'
+last_update_time: 1709868167401
+lifecycle_stage: active
+name: icr
+tags:
+  env: dev
+  version: 1.0.0

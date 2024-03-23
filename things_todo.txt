@@ -1,0 +1,7 @@
+1. Buat API untuk serve model
+2. study lambda
+3. 3D point cloud
+4. CI/CD pipeline
+5. docker
+6. smoke testing
+7. mlflow
